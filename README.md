@@ -15,11 +15,11 @@ You can use the following keyboard buttons in the program:
 </p>
 <table>
   <tr>
-    <td><img src="koch_snowflake_angle=60_n=4.png" alt="iteration=4 angle=60" width="400" height="400"></td>
-    <td><img src="koch_snowflake_angle=240_n=4.png" alt="iteration=4 angle=240" width="400" height="400"></td>
+    <td><img src="images/koch_snowflake_angle=60_n=4.png" alt="iteration=4 angle=60" width="400" height="400"></td>
+    <td><img src="images/koch_snowflake_angle=240_n=4.png" alt="iteration=4 angle=240" width="400" height="400"></td>
   </tr>
   <tr>
-    <td><img src="koch_snowflake_angle=300_n=4.png" alt="iteration=4 angle=300" width="400" height="400"></td>
-    <td><img src="koch_snowflake_angle=267_n=9.png" alt="iteration=9 angle=267" width="400" height="400"></td>
+    <td><img src="images/koch_snowflake_angle=300_n=4.png" alt="iteration=4 angle=300" width="400" height="400"></td>
+    <td><img src="images/koch_snowflake_angle=267_n=9.png" alt="iteration=9 angle=267" width="400" height="400"></td>
   </tr>
 </table>
