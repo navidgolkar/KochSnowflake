@@ -1,6 +1,6 @@
 # KochSnowflake
 A simple code for visualizing the famous fractal 'Koch Snowflake' using java processing
-<p>!ATTENTION: this code was written using Processing Java, go to the link below and download the program for running the program smoothly.</br>I've uploaded uploaded some pictures to show the program
+<p>!ATTENTION: this code was written using Processing Java, go to the link below and download the program for running the program smoothly.</br>I've uploaded some pictures to show the program
 <br><a href="processing.org">processing.org</a></p>
 <p>
 <br>
